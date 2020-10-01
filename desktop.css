@@ -1,0 +1,30 @@
+body
+{
+    background-color: #000000;
+}
+.header
+{
+    padding: 45px;
+    width: calc(100% - 90px);
+    position: relative;
+}
+.logo
+{
+    width: 374px;
+    height: 54px;
+    background-image: url(Image/logo.png);
+}
+.menu-item
+{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-family: Tahoma;
+    display: inline-block;
+    margin-left:40px;
+}
+.menu
+{
+    position: absolute;
+    right: 45px;
+    top: 45px;
+}
